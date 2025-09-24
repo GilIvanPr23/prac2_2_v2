@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-06\\Desktop\\\u0413\u0438\u043B\u044C\u0418\u0432\u0430\u043D\u041F\u042033\\prac2_2_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6D9006-681A-4FC1-9413-50E99CF048F1}|prac2_2_v2.vcxproj|C:\\Users\\st310-06\\Desktop\\\u0413\u0438\u043B\u044C\u0418\u0432\u0430\u043D\u041F\u042033\\prac2_2_v2\\prac2_2_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA6D9006-681A-4FC1-9413-50E99CF048F1}|prac2_2_v2.vcxproj|solutionrelative:prac2_2_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prac2_2_v2.cpp",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Desktop\\\u0413\u0438\u043B\u044C\u0418\u0432\u0430\u043D\u041F\u042033\\prac2_2_v2\\prac2_2_v2.cpp",
+              "RelativeDocumentMoniker": "prac2_2_v2.cpp",
+              "ToolTip": "C:\\Users\\st310-06\\Desktop\\\u0413\u0438\u043B\u044C\u0418\u0432\u0430\u043D\u041F\u042033\\prac2_2_v2\\prac2_2_v2.cpp",
+              "RelativeToolTip": "prac2_2_v2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T11:36:58.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
